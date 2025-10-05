@@ -1,0 +1,43 @@
+{
+  "name": "@freakynit/json-generator",
+  "version": "1.0.0",
+  "description": "A CLI tool for generating JSON data using Faker.js with template support and various output formats",
+  "main": "src/index.js",
+  "bin": {
+    "json-generator": "src/index.js"
+  },
+  "scripts": {
+    
+  },
+  "keywords": [
+    "json",
+    "generator",
+    "faker",
+    "cli",
+    "data",
+    "mock",
+    "template",
+    "ndjson"
+  ],
+  "author": {
+    "name": "Nitin Bansal",
+    "email": "nitinbansal85@gmail.com",
+    "url": "https://github.com/freakynit"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/freakynit/json-generator#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freakynit/json-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freakynit/json-generator/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "commander": "^14.0.1"
+  }
+}

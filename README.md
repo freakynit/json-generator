@@ -283,6 +283,8 @@ Generator function that yields resolved template items.
 #### `presets`
 Object containing built-in presets: `user`, `product`, `company`, `order`, `post`, `event`
 
+**100% vibe-coded** 🌈
+
 ## 🏗️ Architecture
 
 The project follows a modular architecture:
